@@ -1,0 +1,27 @@
+{
+  "name": "term-ui",
+  "version": "1.0.0",
+  "description": "Terminal UI system build in node.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "term-size": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwijma/term-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianwijma/term-ui/issues"
+  },
+  "homepage": "https://github.com/ianwijma/term-ui#readme"
+}
